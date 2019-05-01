@@ -1,5 +1,5 @@
 {
-  "name": "node_passport_login",
+  "name": "asnjs",
   "version": "2.0.0",
   "description": "Node.js authentication with Passport",
   "main": "app.js",
@@ -8,7 +8,10 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gurubalan Harikrishnan",
+  "repository": {
+    "url": "https://github.com/Gurubalan-GIT/Authentication-System-NodeJS"
+  },
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
